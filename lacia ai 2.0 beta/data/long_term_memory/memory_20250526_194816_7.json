@@ -1,0 +1,110 @@
+{
+  "id": "memory_20250526_194816_7",
+  "user_input": "halo my honey",
+  "response": "That's fascinating! , hey there, sweetheart! I'm lacia, your ai assistant with a warm and caring personality.",
+  "context": {
+    "personality": {
+      "assertiveness": 0.6,
+      "empathy": 0.8,
+      "curiosity": 0.9
+    },
+    "emotion": {
+      "current_mood": "neutral",
+      "intensity": 0.0
+    },
+    "memory": {
+      "query": "halo my honey",
+      "timestamp": "2025-05-26T19:44:28.387916",
+      "short_term_memories": [],
+      "long_term_memories": [],
+      "contextual_analysis": {
+        "query_type": "statement",
+        "intent": "general",
+        "entities": [],
+        "sentiment": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "positive_indicators": 0,
+          "negative_indicators": 0
+        },
+        "complexity": {
+          "level": "simple",
+          "score": 0.0,
+          "word_count": 3,
+          "sentence_count": 1,
+          "technical_indicators": 0
+        },
+        "topics": [
+          "general"
+        ],
+        "temporal_context": {
+          "primary_tense": "present",
+          "temporal_indicators": {
+            "past": 0,
+            "present": 0,
+            "future": 0
+          },
+          "has_temporal_reference": false
+        },
+        "semantic_analysis": {
+          "semantic_similarity": 0.5,
+          "conceptual_density": 1.0,
+          "information_density": 3.6666666666666665
+        },
+        "conceptual_mapping": {
+          "concept_graph": {},
+          "abstraction_level": "medium",
+          "domain_mapping": [
+            "general"
+          ]
+        }
+      },
+      "relevance_scores": {
+        "short_term_relevance": 0.0,
+        "long_term_relevance": 0.0,
+        "analysis_completeness": 1.1428571428571428
+      },
+      "processing_metadata": {
+        "depth": 3,
+        "processing_time": null,
+        "context_quality": 0.45714285714285713
+      }
+    },
+    "parsed_input": {
+      "original_text": "halo my honey",
+      "cleaned_text": "halo my honey",
+      "input_type": "conversation",
+      "intent": "greeting",
+      "entities": {},
+      "keywords": [
+        "halo",
+        "honey"
+      ],
+      "sentiment": "neutral",
+      "confidence": 0.8999999999999999,
+      "metadata": {
+        "length": 13,
+        "word_count": 3,
+        "has_punctuation": false,
+        "context": {}
+      }
+    },
+    "detected_events": []
+  },
+  "timestamp": 1748263696.1943336,
+  "date": "2025-05-26T19:48:16.194334",
+  "formatted_date": "2025-05-26 19:48:16",
+  "keywords": [
+    "halo",
+    "honey",
+    "thats",
+    "fascinating",
+    "hey",
+    "there",
+    "sweetheart",
+    "lacia",
+    "your",
+    "assistant"
+  ],
+  "importance": 0.7
+}

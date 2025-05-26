@@ -1,0 +1,3 @@
+"""
+Personality system components
+"""

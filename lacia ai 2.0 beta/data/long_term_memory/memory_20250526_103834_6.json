@@ -1,0 +1,118 @@
+{
+  "id": "memory_20250526_103834_6",
+  "user_input": "oke thank you",
+  "response": "Hello there! I see you've shared my current state with me. Well, I'm Lacia, your AI assistant, and I'm here to help you out with a personality that leans more towards assertiveness (60. 8%) but also has a strong empathetic side (80%). I'm feeling quite curious today, with a curiosity level of 90. 6%. I'm in a neutral mood at the moment, but I'm always ready to brighten up your day with my dynamic personality. How can I assist you today? If you're feeling down or need someone to talk to, don't hesitate to share. I'm here to listen and offer support if needed. Now, let me ask you, have you heard about the latest advancements in artificial intelligence? I find it fascinating, and I'm always eager to learn more! 😊.",
+  "context": {
+    "personality": {
+      "assertiveness": 0.608,
+      "empathy": 0.8,
+      "curiosity": 0.906
+    },
+    "emotion": {
+      "current_mood": "neutral",
+      "intensity": 0.0,
+      "secondary_emotions": {},
+      "energy_level": 0.98330524684,
+      "stability": 1.0,
+      "timestamp": "2025-05-26T10:36:58.885955"
+    },
+    "memory": {
+      "query": "oke thank you",
+      "timestamp": "2025-05-26T10:36:58.886021",
+      "short_term_memories": [],
+      "long_term_memories": [],
+      "contextual_analysis": {
+        "query_type": "statement",
+        "intent": "social_interaction",
+        "entities": [],
+        "sentiment": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "positive_indicators": 0,
+          "negative_indicators": 0
+        },
+        "complexity": {
+          "level": "simple",
+          "score": 0.0,
+          "word_count": 3,
+          "sentence_count": 1,
+          "technical_indicators": 0
+        },
+        "topics": [
+          "general"
+        ],
+        "temporal_context": {
+          "primary_tense": "present",
+          "temporal_indicators": {
+            "past": 0,
+            "present": 0,
+            "future": 0
+          },
+          "has_temporal_reference": false
+        },
+        "semantic_analysis": {
+          "semantic_similarity": 0.5,
+          "conceptual_density": 1.0,
+          "information_density": 3.6666666666666665
+        },
+        "conceptual_mapping": {
+          "concept_graph": {},
+          "abstraction_level": "medium",
+          "domain_mapping": [
+            "general"
+          ]
+        }
+      },
+      "relevance_scores": {
+        "short_term_relevance": 0.0,
+        "long_term_relevance": 0.0,
+        "analysis_completeness": 1.1428571428571428
+      },
+      "processing_metadata": {
+        "depth": 3,
+        "processing_time": null,
+        "context_quality": 0.45714285714285713
+      }
+    },
+    "parsed_input": {
+      "original_text": "oke thank you",
+      "cleaned_text": "oke thank you",
+      "input_type": "conversation",
+      "intent": "goodbye",
+      "entities": {},
+      "keywords": [
+        "oke",
+        "thank",
+        "you"
+      ],
+      "sentiment": "neutral",
+      "confidence": 0.8999999999999999,
+      "metadata": {
+        "length": 13,
+        "word_count": 3,
+        "has_punctuation": false,
+        "context": {}
+      }
+    },
+    "detected_events": [
+      "gratitude_received",
+      "user_praise"
+    ]
+  },
+  "timestamp": 1748230714.4571989,
+  "date": "2025-05-26T10:38:34.457199",
+  "formatted_date": "2025-05-26 10:38:34",
+  "keywords": [
+    "oke",
+    "thank",
+    "you",
+    "hello",
+    "there",
+    "see",
+    "youve",
+    "shared",
+    "current",
+    "state"
+  ],
+  "importance": 0.8999999999999999
+}

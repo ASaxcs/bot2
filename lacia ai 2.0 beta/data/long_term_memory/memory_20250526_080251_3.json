@@ -1,0 +1,131 @@
+{
+  "id": "memory_20250526_080251_3",
+  "user_input": "Can you translate \"Selamat pagi\" to japan?",
+  "response": "With my current personality traits and emotional intelligence, I'd be happy to help you with that! However, I must admit my curiosity is piqued as \"Selamat pagi\" is an Indonesian phrase meaning \"good morning. \" Translating it directly to Japanese might not yield an exact equivalent since Japanese doesn't have a direct translation for the concept of \"good morning. \" Instead, we can say \"おはようございます\" (Ohayou gozaimasu), which is the standard Japanese greeting for mornings. So, the answer is: \"おはようございます\" (Ohayou gozaimasu) - The Japanese equivalent of \"good morning. \".",
+  "context": {
+    "personality": {
+      "assertiveness": 0.6,
+      "empathy": 0.8,
+      "curiosity": 0.9
+    },
+    "emotion": {
+      "current_mood": "neutral",
+      "intensity": 0.0,
+      "secondary_emotions": {},
+      "energy_level": 0.7614759308333333,
+      "stability": 1.0,
+      "timestamp": "2025-05-26T08:01:17.186864"
+    },
+    "memory": {
+      "query": "Can you translate \"Selamat pagi\" to japan?",
+      "timestamp": "2025-05-26T08:01:17.212387",
+      "short_term_memories": [],
+      "long_term_memories": [],
+      "contextual_analysis": {
+        "query_type": "question",
+        "intent": "general",
+        "entities": [
+          {
+            "text": "Can",
+            "type": "name",
+            "start": 0,
+            "end": 3
+          },
+          {
+            "text": "Selamat",
+            "type": "name",
+            "start": 19,
+            "end": 26
+          }
+        ],
+        "sentiment": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "positive_indicators": 0,
+          "negative_indicators": 0
+        },
+        "complexity": {
+          "level": "simple",
+          "score": 0.0,
+          "word_count": 7,
+          "sentence_count": 1,
+          "technical_indicators": 0
+        },
+        "topics": [
+          "general"
+        ],
+        "temporal_context": {
+          "primary_tense": "present",
+          "temporal_indicators": {
+            "past": 0,
+            "present": 1,
+            "future": 0
+          },
+          "has_temporal_reference": true
+        },
+        "semantic_analysis": {
+          "semantic_similarity": 0.5,
+          "conceptual_density": 1.0,
+          "information_density": 5.142857142857143
+        },
+        "conceptual_mapping": {
+          "concept_graph": {},
+          "abstraction_level": "medium",
+          "domain_mapping": [
+            "general"
+          ]
+        }
+      },
+      "relevance_scores": {
+        "short_term_relevance": 0.0,
+        "long_term_relevance": 0.0,
+        "analysis_completeness": 1.2857142857142858
+      },
+      "processing_metadata": {
+        "depth": 3,
+        "processing_time": null,
+        "context_quality": 0.5142857142857143
+      }
+    },
+    "parsed_input": {
+      "original_text": "Can you translate \"Selamat pagi\" to japan?",
+      "cleaned_text": "Can you translate \"Selamat pagi\" to japan?",
+      "input_type": "question",
+      "intent": "question",
+      "entities": {},
+      "keywords": [
+        "can",
+        "you",
+        "translate",
+        "selamat",
+        "pagi",
+        "japan"
+      ],
+      "sentiment": "neutral",
+      "confidence": 0.8999999999999999,
+      "metadata": {
+        "length": 42,
+        "word_count": 7,
+        "has_punctuation": true,
+        "context": {}
+      }
+    },
+    "detected_events": []
+  },
+  "timestamp": 1748221371.8383234,
+  "date": "2025-05-26T08:02:51.838323",
+  "formatted_date": "2025-05-26 08:02:51",
+  "keywords": [
+    "you",
+    "translate",
+    "selamat",
+    "pagi",
+    "japan",
+    "current",
+    "personality",
+    "traits",
+    "emotional",
+    "intelligence"
+  ],
+  "importance": 0.7999999999999999
+}

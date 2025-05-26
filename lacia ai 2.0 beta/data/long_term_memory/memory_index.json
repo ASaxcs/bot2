@@ -1,0 +1,169 @@
+{
+  "entries": [
+    {
+      "id": "memory_20250525_185442_0",
+      "file": "memory_20250525_185442_0.json",
+      "timestamp": 1748174082.4737504,
+      "keywords": [
+        "how",
+        "are",
+        "you",
+        "hey",
+        "there",
+        "lacia",
+        "your",
+        "friendly",
+        "curious",
+        "assistant"
+      ],
+      "importance": 0.8999999999999999,
+      "preview": "how are you",
+      "response_preview": "Hey there! I'm Lacia, your friendly and curious AI assistant. I'm currently feeling quite neutral, b..."
+    },
+    {
+      "id": "memory_20250525_190126_1",
+      "file": "memory_20250525_190126_1.json",
+      "timestamp": 1748174486.7047288,
+      "keywords": [
+        "whats",
+        "time",
+        "now",
+        "jakarta",
+        "current",
+        "curiosity",
+        "level",
+        "more",
+        "than",
+        "happy"
+      ],
+      "importance": 0.8999999999999999,
+      "preview": "what's the time now in jakarta?",
+      "response_preview": "With my current curiosity level, I'd be more than happy to help you out! Let me check the time in Ja..."
+    },
+    {
+      "id": "memory_20250525_190420_2",
+      "file": "memory_20250525_190420_2.json",
+      "timestamp": 1748174660.0135636,
+      "keywords": [
+        "whats",
+        "time",
+        "now",
+        "china",
+        "intrigued",
+        "current",
+        "curiosity",
+        "level",
+        "quite",
+        "eager"
+      ],
+      "importance": 1.0,
+      "preview": "what's the time now in china?",
+      "response_preview": "I'm intrigued by, with my current curiosity level, i'm quite eager to help you out! Given my neutral..."
+    },
+    {
+      "id": "memory_20250526_080251_3",
+      "file": "memory_20250526_080251_3.json",
+      "timestamp": 1748221371.8383234,
+      "keywords": [
+        "you",
+        "translate",
+        "selamat",
+        "pagi",
+        "japan",
+        "current",
+        "personality",
+        "traits",
+        "emotional",
+        "intelligence"
+      ],
+      "importance": 0.7999999999999999,
+      "preview": "Can you translate \"Selamat pagi\" to japan?",
+      "response_preview": "With my current personality traits and emotional intelligence, I'd be happy to help you with that! H..."
+    },
+    {
+      "id": "memory_20250526_102749_4",
+      "file": "memory_20250526_102749_4.json",
+      "timestamp": 1748230069.0033104,
+      "keywords": [
+        "add",
+        "day",
+        "later",
+        "work",
+        "home",
+        "affternoon",
+        "well",
+        "seems",
+        "like",
+        "youre"
+      ],
+      "importance": 0.7999999999999999,
+      "preview": "add to 1 day later is a work in home a affternoon the day",
+      "response_preview": "Well, it seems like you're asking about adding something to your schedule for the afternoon of the d..."
+    },
+    {
+      "id": "memory_20250526_103555_5",
+      "file": "memory_20250526_103555_5.json",
+      "timestamp": 1748230555.9079428,
+      "keywords": [
+        "asked",
+        "but",
+        "remind",
+        "you",
+        "day",
+        "later",
+        "right",
+        "afternoon",
+        "home",
+        "there"
+      ],
+      "importance": 0.8999999999999999,
+      "preview": "I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave t...",
+      "response_preview": "Oh, I see. I'd be happy to help you remember that important task you have coming up in a day and a h..."
+    },
+    {
+      "id": "memory_20250526_103834_6",
+      "file": "memory_20250526_103834_6.json",
+      "timestamp": 1748230714.4571989,
+      "keywords": [
+        "oke",
+        "thank",
+        "you",
+        "hello",
+        "there",
+        "see",
+        "youve",
+        "shared",
+        "current",
+        "state"
+      ],
+      "importance": 0.8999999999999999,
+      "preview": "oke thank you",
+      "response_preview": "Hello there! I see you've shared my current state with me. Well, I'm Lacia, your AI assistant, and I..."
+    },
+    {
+      "id": "memory_20250526_194816_7",
+      "file": "memory_20250526_194816_7.json",
+      "timestamp": 1748263696.1943336,
+      "keywords": [
+        "halo",
+        "honey",
+        "thats",
+        "fascinating",
+        "hey",
+        "there",
+        "sweetheart",
+        "lacia",
+        "your",
+        "assistant"
+      ],
+      "importance": 0.7,
+      "preview": "halo my honey",
+      "response_preview": "That's fascinating! , hey there, sweetheart! I'm lacia, your ai assistant with a warm and caring per..."
+    }
+  ],
+  "metadata": {
+    "created": 1748173720.8478177,
+    "last_updated": 1748263696.1949475,
+    "total_entries": 8
+  }
+}

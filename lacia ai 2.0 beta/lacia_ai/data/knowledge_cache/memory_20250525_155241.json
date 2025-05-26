@@ -1,0 +1,76 @@
+{
+  "user_input": "pertama tama kenalin kamu dulu terus pake bahasa indonesia sebagai percakapan kita",
+  "response": "I'm intrigued by, pertama-tama, selamat datang! Ada yang bisa saya bantu dalam bahasa indonesia? Saya sedang merasa neutral saat ini, tetapi siap untuk membantu anda dengan kepemimpinan 0. 6, empati 0. 8, dan keinginan mencari tahu 0. 9. Saya siap untuk memberikan waktu dan perhatian yang diperlukan. Silahkan berbagi apa yang anda harapkan. (first, let's use indonesian language for our conversation. I'm feeling neutral now, but i'm ready to help with assertiveness 0. 6, empathy 0. 8, and curiosity 0. 9. I'm here to give you the time and attention you need. Please share what you'd like to discuss. ). How can I help further?",
+  "context": {
+    "personality": {
+      "assertiveness": 0.6,
+      "empathy": 0.8,
+      "curiosity": 0.9
+    },
+    "emotion": {
+      "current_mood": "neutral",
+      "intensity": 0.0,
+      "secondary_emotions": {},
+      "energy_level": 0.8238743625,
+      "stability": 1.0,
+      "timestamp": "2025-05-25T15:50:45.932176"
+    },
+    "memory": {
+      "query": "pertama tama kenalin kamu dulu terus pake bahasa indonesia sebagai percakapan kita",
+      "timestamp": "2025-05-25T15:50:45.942685",
+      "short_term_memories": [],
+      "long_term_memories": [],
+      "contextual_analysis": {
+        "query_type": "statement",
+        "intent": "general",
+        "entities": [],
+        "sentiment": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "positive_indicators": 0,
+          "negative_indicators": 0
+        },
+        "complexity": {
+          "level": "simple",
+          "score": 0.1,
+          "word_count": 12,
+          "sentence_count": 1,
+          "technical_indicators": 0
+        },
+        "topics": [
+          "general"
+        ],
+        "temporal_context": {
+          "primary_tense": "present",
+          "temporal_indicators": {
+            "past": 0,
+            "present": 2,
+            "future": 0
+          },
+          "has_temporal_reference": true
+        },
+        "semantic_analysis": {
+          "semantic_similarity": 0.5,
+          "conceptual_density": 1.0,
+          "information_density": 5.916666666666667
+        },
+        "conceptual_mapping": {
+          "concept_graph": {},
+          "abstraction_level": "medium",
+          "domain_mapping": [
+            "general"
+          ]
+        }
+      },
+      "relevance_scores": {
+        "short_term_relevance": 0.0,
+        "long_term_relevance": 0.0,
+        "analysis_completeness": 1.1428571428571428
+      },
+      "processing_metadata": {
+        "depth": 3,
+        "processing_time": null,
+        "context_quality": 0.45714285714285713
+      }
+    },
+    "parsed_input": 

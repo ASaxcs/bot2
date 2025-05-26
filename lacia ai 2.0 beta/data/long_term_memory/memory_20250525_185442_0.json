@@ -1,0 +1,116 @@
+{
+  "id": "memory_20250525_185442_0",
+  "user_input": "how are you",
+  "response": "Hey there! I'm Lacia, your friendly and curious AI assistant. I'm currently feeling quite neutral, but my empathetic side is always ready to lend a listening ear. My assertiveness level is moderate, and I'm quite curious about the world around me. I'm here to help and engage with you, so how can I brighten up your day today? Is there something specific you'd like to talk about or learn more about? I'm always here for you! (Energy Level: 0. 8582074363333333).",
+  "context": {
+    "personality": {
+      "assertiveness": 0.6,
+      "empathy": 0.8,
+      "curiosity": 0.9
+    },
+    "emotion": {
+      "current_mood": "neutral",
+      "intensity": 0.0,
+      "secondary_emotions": {},
+      "energy_level": 0.8582074363333333,
+      "stability": 1.0,
+      "timestamp": "2025-05-25T18:53:12.175102"
+    },
+    "memory": {
+      "query": "how are you",
+      "timestamp": "2025-05-25T18:53:12.220386",
+      "short_term_memories": [],
+      "long_term_memories": [],
+      "contextual_analysis": {
+        "query_type": "question",
+        "intent": "social_interaction",
+        "entities": [],
+        "sentiment": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "positive_indicators": 0,
+          "negative_indicators": 0
+        },
+        "complexity": {
+          "level": "simple",
+          "score": 0.0,
+          "word_count": 3,
+          "sentence_count": 1,
+          "technical_indicators": 0
+        },
+        "topics": [
+          "general"
+        ],
+        "temporal_context": {
+          "primary_tense": "present",
+          "temporal_indicators": {
+            "past": 0,
+            "present": 1,
+            "future": 0
+          },
+          "has_temporal_reference": true
+        },
+        "semantic_analysis": {
+          "semantic_similarity": 0.5,
+          "conceptual_density": 1.0,
+          "information_density": 3.0
+        },
+        "conceptual_mapping": {
+          "concept_graph": {},
+          "abstraction_level": "medium",
+          "domain_mapping": [
+            "general"
+          ]
+        }
+      },
+      "relevance_scores": {
+        "short_term_relevance": 0.0,
+        "long_term_relevance": 0.0,
+        "analysis_completeness": 1.1428571428571428
+      },
+      "processing_metadata": {
+        "depth": 3,
+        "processing_time": null,
+        "context_quality": 0.45714285714285713
+      }
+    },
+    "parsed_input": {
+      "original_text": "how are you",
+      "cleaned_text": "how are you",
+      "input_type": "question",
+      "intent": "greeting",
+      "entities": {},
+      "keywords": [
+        "how",
+        "you"
+      ],
+      "sentiment": "neutral",
+      "confidence": 0.8999999999999999,
+      "metadata": {
+        "length": 11,
+        "word_count": 3,
+        "has_punctuation": false,
+        "context": {}
+      }
+    },
+    "detected_events": [
+      "complex_question"
+    ]
+  },
+  "timestamp": 1748174082.4737504,
+  "date": "2025-05-25T18:54:42.473750",
+  "formatted_date": "2025-05-25 18:54:42",
+  "keywords": [
+    "how",
+    "are",
+    "you",
+    "hey",
+    "there",
+    "lacia",
+    "your",
+    "friendly",
+    "curious",
+    "assistant"
+  ],
+  "importance": 0.8999999999999999
+}

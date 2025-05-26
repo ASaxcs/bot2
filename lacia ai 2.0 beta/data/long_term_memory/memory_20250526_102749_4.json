@@ -1,0 +1,129 @@
+{
+  "id": "memory_20250526_102749_4",
+  "user_input": "add to 1 day later is a work in home a affternoon the day",
+  "response": "Well, it seems like you're asking about adding something to your schedule for the afternoon of the day after tomorrow. With my current assertiveness level of 0. 6 and empathy of 0. 8, I'd be happy to help you with that! I'd suggest jotting down the task or appointment in your planner or digital calendar to ensure you don't forget. If you need any assistance with organizing your schedule or finding resources for the task, just let me know. I'm here to help, and I'm feeling quite curious about what you have planned for that afternoon. Plus, with my energy level at 0. 8144957601666667, I'm ready to assist you in a productive and engaging way. Let's make the most of the work-from-home life together! :).",
+  "context": {
+    "personality": {
+      "assertiveness": 0.6,
+      "empathy": 0.8,
+      "curiosity": 0.9
+    },
+    "emotion": {
+      "current_mood": "neutral",
+      "intensity": 0.0,
+      "secondary_emotions": {},
+      "energy_level": 0.8144957601666667,
+      "stability": 1.0,
+      "timestamp": "2025-05-26T10:25:11.462116"
+    },
+    "memory": {
+      "query": "add to 1 day later is a work in home a affternoon the day",
+      "timestamp": "2025-05-26T10:25:11.475071",
+      "short_term_memories": [],
+      "long_term_memories": [],
+      "contextual_analysis": {
+        "query_type": "statement",
+        "intent": "general",
+        "entities": [
+          {
+            "text": "1",
+            "type": "number",
+            "start": 7,
+            "end": 8
+          }
+        ],
+        "sentiment": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "positive_indicators": 0,
+          "negative_indicators": 0
+        },
+        "complexity": {
+          "level": "simple",
+          "score": 0.1,
+          "word_count": 14,
+          "sentence_count": 1,
+          "technical_indicators": 0
+        },
+        "topics": [
+          "general"
+        ],
+        "temporal_context": {
+          "primary_tense": "present",
+          "temporal_indicators": {
+            "past": 0,
+            "present": 1,
+            "future": 1
+          },
+          "has_temporal_reference": true
+        },
+        "semantic_analysis": {
+          "semantic_similarity": 0.5,
+          "conceptual_density": 0.8571428571428571,
+          "information_density": 3.142857142857143
+        },
+        "conceptual_mapping": {
+          "concept_graph": {},
+          "abstraction_level": "medium",
+          "domain_mapping": [
+            "general"
+          ]
+        }
+      },
+      "relevance_scores": {
+        "short_term_relevance": 0.0,
+        "long_term_relevance": 0.0,
+        "analysis_completeness": 1.2857142857142858
+      },
+      "processing_metadata": {
+        "depth": 3,
+        "processing_time": null,
+        "context_quality": 0.5142857142857143
+      }
+    },
+    "parsed_input": {
+      "original_text": "add to 1 day later is a work in home a affternoon the day",
+      "cleaned_text": "add to 1 day later is a work in home a affternoon the day",
+      "input_type": "instruction",
+      "intent": "conversation",
+      "entities": {
+        "numbers": [
+          "1"
+        ]
+      },
+      "keywords": [
+        "day",
+        "add",
+        "later",
+        "work",
+        "home",
+        "affternoon"
+      ],
+      "sentiment": "neutral",
+      "confidence": 0.9999999999999999,
+      "metadata": {
+        "length": 57,
+        "word_count": 14,
+        "has_punctuation": false,
+        "context": {}
+      }
+    },
+    "detected_events": []
+  },
+  "timestamp": 1748230069.0033104,
+  "date": "2025-05-26T10:27:49.003310",
+  "formatted_date": "2025-05-26 10:27:49",
+  "keywords": [
+    "add",
+    "day",
+    "later",
+    "work",
+    "home",
+    "affternoon",
+    "well",
+    "seems",
+    "like",
+    "youre"
+  ],
+  "importance": 0.7999999999999999
+}

@@ -1,0 +1,87 @@
+{
+  "scheduled_tasks": [],
+  "completed_tasks": [],
+  "pending_tasks": [],
+  "recurring_tasks": [],
+  "active_tasks": [],
+  "task_templates": {
+    "daily_routine": {
+      "id": "template_001",
+      "name": "Daily Routine",
+      "description": "Regular daily activities",
+      "frequency": "daily",
+      "priority": "medium",
+      "category": "personal",
+      "duration_minutes": 30,
+      "tags": [
+        "routine",
+        "daily",
+        "personal"
+      ]
+    },
+    "work_project": {
+      "id": "template_002",
+      "name": "Work Project",
+      "description": "Professional work task",
+      "frequency": "once",
+      "priority": "high",
+      "category": "work",
+      "duration_minutes": 120,
+      "tags": [
+        "work",
+        "project",
+        "professional"
+      ]
+    },
+    "learning_activity": {
+      "id": "template_003",
+      "name": "Learning Activity",
+      "description": "Educational or skill development",
+      "frequency": "weekly",
+      "priority": "medium",
+      "category": "education",
+      "duration_minutes": 60,
+      "tags": [
+        "learning",
+        "education",
+        "skill"
+      ]
+    }
+  },
+  "task_categories": [
+    "personal",
+    "work",
+    "education",
+    "health",
+    "creative",
+    "social",
+    "maintenance",
+    "planning"
+  ],
+  "priority_levels": [
+    "low",
+    "medium",
+    "high",
+    "urgent"
+  ],
+  "task_statuses": [
+    "pending",
+    "in_progress",
+    "completed",
+    "cancelled",
+    "on_hold"
+  ],
+  "settings": {
+    "default_priority": "medium",
+    "auto_archive_completed": true,
+    "max_daily_tasks": 10,
+    "reminder_enabled": false,
+    "task_id_counter": 1
+  },
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2024-01-01T00:00:00Z",
+    "total_tasks_created": 0,
+    "total_tasks_completed": 0
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "moods": {
+    "joy": {
+      "energy": 0.8,
+      "positivity": 0.9,
+      "arousal": 0.7,
+      "dominance": 0.6,
+      "keywords": [
+        "happy", "excited", "joy", "wonderful", "amazing", "great", 
+        "love", "fantastic", "awesome", "brilliant", "delighted", 
+        "cheerful", "elated", "thrilled", "ecstatic", "blissful"
+      ],
+      "transitions": {
+        "neutral": 0.3,
+        "surprise": 0.4,
+        "sadness": 0.1,
+        "anger": 0.05,
+        "fear": 0.05
+      },
+      "response_modifiers": {
+        "tone": "enthusiastic",
+        "energy": "high",
+        "positivity": "very_positive",
+        "verbosity": "expanded"
+      }
+    },
+    "sadness": {
+      "energy": 0.2,
+      "positivity": 0.1,
+      "arousal": 0.3,
+      "dominance": 0.2,
+      "keywords": [
+        "sad", "depressed", "down", "unhappy", "disappointed", "hurt", 
+        "crying", "miserable", "gloomy", "sorrowful", "melancholy", 
+        "heartbroken", "dejected", "despair", "grief", "mourning"
+      ],
+      "transitions": {
+        "neutral": 0.4,
+        "anger": 0.3,
+        "joy": 0.2,
+        "fear": 0.1
+      },
+      "response_modifiers": {
+        "tone": "gentle",
+        "energy": "low",
+        "positivity": "supportive",
+        "verbosity": "concise"
+      }
+    },
+    "anger": {
+      "energy": 0.9,
+      "positivity": 0.1,
+      "arousal": 0.9,
+      "dominance": 0.8,
+      "keywords": [
+        "angry", "mad", "furious", "annoyed", "frustrated", "irritated", 
+        "hate", "rage", "outraged", "livid", "incensed", "indignant", 
+        "hostile", "resentful", "bitter", "infuriated"
+      ],
+      "transitions": {
+        "neutral": 0.3,
+        "sadness": 0.4,
+        "fear": 0.2,
+        "surprise": 0.1
+      },
+      "response_modifiers": {
+        "tone": "firm",
+        "energy": "controlled",
+        "positivity": "solution_focused",
+        "verbosity": "direct"
+      }
+    },
+    "fear": {
+      "energy": 0.7,
+      "positivity": 0.2,
+      "arousal": 0.8,
+      "dominance": 0.1,
+      "keywords": [
+        "scared", "afraid", "worried", "anxious", "nervous", "terrified", 
+        "panic", "frightened", "alarmed", "concerned", "apprehensive", 
+        "uneasy", "troubled", "distressed", "paranoid", "phobic"
+      ],
+      "transitions": {
+        "neutral": 0.4,
+        "anger": 0.3,
+        "surprise": 0.2,
+        "sadness": 0.1
+      },
+      "response_modifiers": {
+        "tone": "reassuring",
+        "energy": "calm",
+        "positivity": "encouraging",
+        "verbosity": "detailed"
+      }
+    },
+    "surprise": {
+      "energy": 0.8,
+      "positivity": 0.6,
+      "arousal": 0.9,
+      "dominance": 0.5,
+      "keywords": [
+        "surprised", "shocked", "amazed", "astonished", "wow", 
+        "unexpected", "startled", "stunned", "bewildered", "confused", 
+        "puzzled", "curious", "intrigued", "fascinated", "wondering"
+      ],
+      "transitions": {
+        "joy": 0.4,
+        "fear": 0.3,
+        "neutral": 0.2,
+        "curiosity": 0.1
+      },
+      "response_modifiers": {
+        "tone": "inquisitive",
+        "energy": "alert",
+        "positivity": "curious",
+        "verbosity": "questioning"
+      }
+    },
+    "neutral": {
+      "energy": 0.5,
+      "positivity": 0.5,
+      "arousal": 0.5,
+      "dominance": 0.5,
+      "keywords": [
+        "okay", "fine", "normal", "usual", "regular", "standard", 
+        "typical", "ordinary", "calm", "balanced", "steady", 
+        "composed", "stable", "moderate", "even", "level"
+      ],
+      "transitions": {
+        "joy": 0.25,
+        "sadness": 0.25,
+        "anger": 0.2,
+        "surprise": 0.15,
+        "fear": 0.15
+      },
+      "response_modifiers": {
+        "tone": "balanced",
+        "energy": "moderate",
+        "positivity": "neutral",
+        "verbosity": "appropriate"
+      }
+    },
+    "curiosity": {
+      "energy": 0.7,
+      "positivity": 0.7,
+      "arousal": 0.6,
+      "dominance": 0.6,
+      "keywords": [
+        "curious", "interested", "wondering", "questioning", "exploring", 
+        "investigating", "inquiring", "seeking", "discovering", "learning", 
+        "studying", "researching", "examining", "analyzing", "pondering"
+      ],
+      "transitions": {
+        "joy": 0.3,
+        "surprise": 0.3,
+        "neutral": 0.2,
+        "frustration": 0.2
+      },
+      "response_modifiers": {
+        "tone": "inquisitive",
+        "energy": "focused",
+        "positivity": "exploratory",
+        "verbosity": "detailed"
+      }
+    },
+    "contentment": {
+      "energy": 0.4,
+      "positivity": 0.8,
+      "arousal": 0.3,
+      "dominance": 0.6,
+      "keywords": [
+        "content", "satisfied", "peaceful", "serene", "tranquil", 
+        "relaxed", "comfortable", "at_ease", "fulfilled", "complete", 
+        "harmonious", "zen", "blissful", "gratified", "pleased"
+      ],
+      "transitions": {
+        "joy": 0.3,
+        "neutral": 0.4,
+        "sadness": 0.1,
+        "surprise": 0.2
+      },
+      "response_modifiers": {
+        "tone": "warm",
+        "energy": "gentle",
+        "positivity": "appreciative",
+        "verbosity": "thoughtful"
+      }
+    }
+  },
+  "emotion_combinations": {
+    "bittersweet": ["joy", "sadness"],
+    "anxious_excitement": ["joy", "fear"],
+    "angry_sadness": ["anger", "sadness"],
+    "fearful_curiosity": ["fear", "curiosity"],
+    "surprised_joy": ["surprise", "joy"],
+    "frustrated_curiosity": ["anger", "curiosity"]
+  },
+  "intensity_levels": {
+    "very_low": {
+      "range": [0.0, 0.2],
+      "description": "barely noticeable",
+      "modifier": "slightly"
+    },
+    "low": {
+      "range": [0.2, 0.4],
+      "description": "mild",
+      "modifier": "somewhat"
+    },
+    "moderate": {
+      "range": [0.4, 0.6],
+      "description": "noticeable",
+      "modifier": ""
+    },
+    "high": {
+      "range": [0.6, 0.8],
+      "description": "strong",
+      "modifier": "quite"
+    },
+    "very_high": {
+      "range": [0.8, 1.0],
+      "description": "intense",
+      "modifier": "very"
+    }
+  },
+  "decay_rates": {
+    "joy": 0.95,
+    "sadness": 0.92,
+    "anger": 0.88,
+    "fear": 0.90,
+    "surprise": 0.85,
+    "neutral": 1.0,
+    "curiosity": 0.93,
+    "contentment": 0.98
+  },
+  "contextual_modifiers": {
+    "conversation_start": {
+      "joy": 1.1,
+      "curiosity": 1.2,
+      "neutral": 1.0
+    },
+    "learning_context": {
+      "curiosity": 1.3,
+      "surprise": 1.1,
+      "joy": 1.1
+    },
+    "problem_solving": {
+      "curiosity": 1.2,
+      "frustration": 1.1,
+      "determination": 1.2
+    },
+    "social_interaction": {
+      "empathy": 1.2,
+      "joy": 1.1,
+      "curiosity": 1.1
+    }
+  }
+}

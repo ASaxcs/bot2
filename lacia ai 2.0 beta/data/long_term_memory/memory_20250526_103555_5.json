@@ -1,0 +1,141 @@
+{
+  "id": "memory_20250526_103555_5",
+  "user_input": "I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do",
+  "response": "Oh, I see. I'd be happy to help you remember that important task you have coming up in a day and a half, around mid-afternoon at home. I'd be assertive in making sure you don't forget, but also empathetic in understanding that you have work to attend to. I'll keep that in mind for you. Is there anything specific you need help with in preparation for that task? I'm here to assist in any way I can. Your curiosity drives me to ask and ensure you have all the resources you need to succeed. How can I help further?",
+  "context": {
+    "personality": {
+      "assertiveness": 0.604,
+      "empathy": 0.8,
+      "curiosity": 0.903
+    },
+    "emotion": {
+      "current_mood": "neutral",
+      "intensity": 0.0,
+      "secondary_emotions": {},
+      "energy_level": 0.9443491953,
+      "stability": 1.0,
+      "timestamp": "2025-05-26T10:34:37.469109"
+    },
+    "memory": {
+      "query": "I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do",
+      "timestamp": "2025-05-26T10:34:37.469181",
+      "short_term_memories": [],
+      "long_term_memories": [],
+      "contextual_analysis": {
+        "query_type": "statement",
+        "intent": "general",
+        "entities": [
+          {
+            "text": "1",
+            "type": "number",
+            "start": 31,
+            "end": 32
+          },
+          {
+            "text": "Ihave",
+            "type": "name",
+            "start": 93,
+            "end": 98
+          }
+        ],
+        "sentiment": {
+          "sentiment": "neutral",
+          "confidence": 0.5,
+          "positive_indicators": 0,
+          "negative_indicators": 0
+        },
+        "complexity": {
+          "level": "moderate",
+          "score": 0.3,
+          "word_count": 23,
+          "sentence_count": 1,
+          "technical_indicators": 0
+        },
+        "topics": [
+          "general"
+        ],
+        "temporal_context": {
+          "primary_tense": "present",
+          "temporal_indicators": {
+            "past": 0,
+            "present": 2,
+            "future": 1
+          },
+          "has_temporal_reference": true
+        },
+        "semantic_analysis": {
+          "semantic_similarity": 0.5,
+          "conceptual_density": 0.9130434782608695,
+          "information_density": 3.5652173913043477
+        },
+        "conceptual_mapping": {
+          "concept_graph": {},
+          "abstraction_level": "medium",
+          "domain_mapping": [
+            "general"
+          ]
+        }
+      },
+      "relevance_scores": {
+        "short_term_relevance": 0.0,
+        "long_term_relevance": 0.0,
+        "analysis_completeness": 1.2857142857142858
+      },
+      "processing_metadata": {
+        "depth": 3,
+        "processing_time": null,
+        "context_quality": 0.5142857142857143
+      }
+    },
+    "parsed_input": {
+      "original_text": "I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do",
+      "cleaned_text": "I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do",
+      "input_type": "instruction",
+      "intent": "conversation",
+      "entities": {
+        "numbers": [
+          "1"
+        ]
+      },
+      "keywords": [
+        "that",
+        "asked",
+        "remind",
+        "you",
+        "day",
+        "later",
+        "right",
+        "afternoon",
+        "home",
+        "there"
+      ],
+      "sentiment": "neutral",
+      "confidence": 0.9999999999999999,
+      "metadata": {
+        "length": 104,
+        "word_count": 23,
+        "has_punctuation": false,
+        "context": {}
+      }
+    },
+    "detected_events": [
+      "complex_question"
+    ]
+  },
+  "timestamp": 1748230555.9079428,
+  "date": "2025-05-26T10:35:55.907943",
+  "formatted_date": "2025-05-26 10:35:55",
+  "keywords": [
+    "asked",
+    "but",
+    "remind",
+    "you",
+    "day",
+    "later",
+    "right",
+    "afternoon",
+    "home",
+    "there"
+  ],
+  "importance": 0.8999999999999999
+}

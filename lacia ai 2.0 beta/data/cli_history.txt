@@ -1,0 +1,49 @@
+halo
+/quit
+/help
+skills
+/skills
+halo
+/help
+/status
+/quit
+/status
+pertama tama kenalin kamu dulu terus pake bahasa indonesia sebagai percakapan kita
+kamu siapa
+translate to indonesia 
+alah sudah lah coba sekarng jam berapa dan hari apa
+what's tge time now?
+/status
+/help
+/personality
+/history
+/emotion
+/memory
+/quit
+/status
+halo my honey,how are you?
+/quit
+/status
+/help
+/memory
+how are you
+what's the time now in jakarta?
+what's the time now in china?
+/memory
+/help
+/exit
+/help
+/status
+/exit
+Can you translate "Selamat pagi" to japan?
+/status
+/exit
+/status
+add to 1 day later is a work in home a affternoon the day
+I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do
+oke thank you
+/exit
+/status
+/exit
+halo my honey
+/exit

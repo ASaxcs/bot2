@@ -1,0 +1,581 @@
+[
+  {
+    "timestamp": "2025-05-26T10:27:49.005351",
+    "interaction_type": "general_conversation",
+    "context": {
+      "personality": {
+        "assertiveness": 0.6,
+        "empathy": 0.8,
+        "curiosity": 0.9
+      },
+      "emotion": {
+        "current_mood": "neutral",
+        "intensity": 0.0,
+        "secondary_emotions": {},
+        "energy_level": 0.8144957601666667,
+        "stability": 1.0,
+        "timestamp": "2025-05-26T10:25:11.462116"
+      },
+      "memory": {
+        "query": "add to 1 day later is a work in home a affternoon the day",
+        "timestamp": "2025-05-26T10:25:11.475071",
+        "short_term_memories": [],
+        "long_term_memories": [],
+        "contextual_analysis": {
+          "query_type": "statement",
+          "intent": "general",
+          "entities": [
+            {
+              "text": "1",
+              "type": "number",
+              "start": 7,
+              "end": 8
+            }
+          ],
+          "sentiment": {
+            "sentiment": "neutral",
+            "confidence": 0.5,
+            "positive_indicators": 0,
+            "negative_indicators": 0
+          },
+          "complexity": {
+            "level": "simple",
+            "score": 0.1,
+            "word_count": 14,
+            "sentence_count": 1,
+            "technical_indicators": 0
+          },
+          "topics": [
+            "general"
+          ],
+          "temporal_context": {
+            "primary_tense": "present",
+            "temporal_indicators": {
+              "past": 0,
+              "present": 1,
+              "future": 1
+            },
+            "has_temporal_reference": true
+          },
+          "semantic_analysis": {
+            "semantic_similarity": 0.5,
+            "conceptual_density": 0.8571428571428571,
+            "information_density": 3.142857142857143
+          },
+          "conceptual_mapping": {
+            "concept_graph": {},
+            "abstraction_level": "medium",
+            "domain_mapping": [
+              "general"
+            ]
+          }
+        },
+        "relevance_scores": {
+          "short_term_relevance": 0.0,
+          "long_term_relevance": 0.0,
+          "analysis_completeness": 1.2857142857142858
+        },
+        "processing_metadata": {
+          "depth": 3,
+          "processing_time": null,
+          "context_quality": 0.5142857142857143
+        }
+      },
+      "parsed_input": {
+        "original_text": "add to 1 day later is a work in home a affternoon the day",
+        "cleaned_text": "add to 1 day later is a work in home a affternoon the day",
+        "input_type": "instruction",
+        "intent": "conversation",
+        "entities": {
+          "numbers": [
+            "1"
+          ]
+        },
+        "keywords": [
+          "day",
+          "add",
+          "later",
+          "work",
+          "home",
+          "affternoon"
+        ],
+        "sentiment": "neutral",
+        "confidence": 0.9999999999999999,
+        "metadata": {
+          "length": 57,
+          "word_count": 14,
+          "has_punctuation": false,
+          "context": {}
+        }
+      },
+      "detected_events": []
+    },
+    "user_input": "add to 1 day later is a work in home a affternoon the day",
+    "ai_response": "Well, it seems like you're asking about adding something to your schedule for the afternoon of the day after tomorrow. With my current assertiveness level of 0. 6 and empathy of 0. 8, I'd be happy to help you with that! I'd suggest jotting down the task or appointment in your planner or digital calendar to ensure you don't forget. If you need any assistance with organizing your schedule or finding resources for the task, just let me know. I'm here to help, and I'm feeling quite curious about what you have planned for that afternoon. Plus, with my energy level at 0. 8144957601666667, I'm ready to assist you in a productive and engaging way. Let's make the most of the work-from-home life together! :).",
+    "user_feedback": null,
+    "emotion_state": "neutral",
+    "success_rate": 0.8999999999999999,
+    "learning_points": [
+      "general_conversation_interaction",
+      "high_success_pattern",
+      "emotion_neutral",
+      "detailed_response"
+    ]
+  },
+  {
+    "timestamp": "2025-05-26T10:35:55.910702",
+    "interaction_type": "general_conversation",
+    "context": {
+      "personality": {
+        "assertiveness": 0.604,
+        "empathy": 0.8,
+        "curiosity": 0.903
+      },
+      "emotion": {
+        "current_mood": "neutral",
+        "intensity": 0.0,
+        "secondary_emotions": {},
+        "energy_level": 0.9443491953,
+        "stability": 1.0,
+        "timestamp": "2025-05-26T10:34:37.469109"
+      },
+      "memory": {
+        "query": "I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do",
+        "timestamp": "2025-05-26T10:34:37.469181",
+        "short_term_memories": [],
+        "long_term_memories": [],
+        "contextual_analysis": {
+          "query_type": "statement",
+          "intent": "general",
+          "entities": [
+            {
+              "text": "1",
+              "type": "number",
+              "start": 31,
+              "end": 32
+            },
+            {
+              "text": "Ihave",
+              "type": "name",
+              "start": 93,
+              "end": 98
+            }
+          ],
+          "sentiment": {
+            "sentiment": "neutral",
+            "confidence": 0.5,
+            "positive_indicators": 0,
+            "negative_indicators": 0
+          },
+          "complexity": {
+            "level": "moderate",
+            "score": 0.3,
+            "word_count": 23,
+            "sentence_count": 1,
+            "technical_indicators": 0
+          },
+          "topics": [
+            "general"
+          ],
+          "temporal_context": {
+            "primary_tense": "present",
+            "temporal_indicators": {
+              "past": 0,
+              "present": 2,
+              "future": 1
+            },
+            "has_temporal_reference": true
+          },
+          "semantic_analysis": {
+            "semantic_similarity": 0.5,
+            "conceptual_density": 0.9130434782608695,
+            "information_density": 3.5652173913043477
+          },
+          "conceptual_mapping": {
+            "concept_graph": {},
+            "abstraction_level": "medium",
+            "domain_mapping": [
+              "general"
+            ]
+          }
+        },
+        "relevance_scores": {
+          "short_term_relevance": 0.0,
+          "long_term_relevance": 0.0,
+          "analysis_completeness": 1.2857142857142858
+        },
+        "processing_metadata": {
+          "depth": 3,
+          "processing_time": null,
+          "context_quality": 0.5142857142857143
+        }
+      },
+      "parsed_input": {
+        "original_text": "I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do",
+        "cleaned_text": "I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do",
+        "input_type": "instruction",
+        "intent": "conversation",
+        "entities": {
+          "numbers": [
+            "1"
+          ]
+        },
+        "keywords": [
+          "that",
+          "asked",
+          "remind",
+          "you",
+          "day",
+          "later",
+          "right",
+          "afternoon",
+          "home",
+          "there"
+        ],
+        "sentiment": "neutral",
+        "confidence": 0.9999999999999999,
+        "metadata": {
+          "length": 104,
+          "word_count": 23,
+          "has_punctuation": false,
+          "context": {}
+        }
+      },
+      "detected_events": [
+        "complex_question"
+      ]
+    },
+    "user_input": "I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do",
+    "ai_response": "Oh, I see. I'd be happy to help you remember that important task you have coming up in a day and a half, around mid-afternoon at home. I'd be assertive in making sure you don't forget, but also empathetic in understanding that you have work to attend to. I'll keep that in mind for you. Is there anything specific you need help with in preparation for that task? I'm here to assist in any way I can. Your curiosity drives me to ask and ensure you have all the resources you need to succeed. How can I help further?",
+    "user_feedback": null,
+    "emotion_state": "neutral",
+    "success_rate": 0.8999999999999999,
+    "learning_points": [
+      "general_conversation_interaction",
+      "high_success_pattern",
+      "emotion_neutral",
+      "detailed_response"
+    ]
+  },
+  {
+    "timestamp": "2025-05-26T10:38:34.458797",
+    "interaction_type": "general_conversation",
+    "context": {
+      "personality": {
+        "assertiveness": 0.608,
+        "empathy": 0.8,
+        "curiosity": 0.906
+      },
+      "emotion": {
+        "current_mood": "neutral",
+        "intensity": 0.0,
+        "secondary_emotions": {},
+        "energy_level": 0.98330524684,
+        "stability": 1.0,
+        "timestamp": "2025-05-26T10:36:58.885955"
+      },
+      "memory": {
+        "query": "oke thank you",
+        "timestamp": "2025-05-26T10:36:58.886021",
+        "short_term_memories": [],
+        "long_term_memories": [],
+        "contextual_analysis": {
+          "query_type": "statement",
+          "intent": "social_interaction",
+          "entities": [],
+          "sentiment": {
+            "sentiment": "neutral",
+            "confidence": 0.5,
+            "positive_indicators": 0,
+            "negative_indicators": 0
+          },
+          "complexity": {
+            "level": "simple",
+            "score": 0.0,
+            "word_count": 3,
+            "sentence_count": 1,
+            "technical_indicators": 0
+          },
+          "topics": [
+            "general"
+          ],
+          "temporal_context": {
+            "primary_tense": "present",
+            "temporal_indicators": {
+              "past": 0,
+              "present": 0,
+              "future": 0
+            },
+            "has_temporal_reference": false
+          },
+          "semantic_analysis": {
+            "semantic_similarity": 0.5,
+            "conceptual_density": 1.0,
+            "information_density": 3.6666666666666665
+          },
+          "conceptual_mapping": {
+            "concept_graph": {},
+            "abstraction_level": "medium",
+            "domain_mapping": [
+              "general"
+            ]
+          }
+        },
+        "relevance_scores": {
+          "short_term_relevance": 0.0,
+          "long_term_relevance": 0.0,
+          "analysis_completeness": 1.1428571428571428
+        },
+        "processing_metadata": {
+          "depth": 3,
+          "processing_time": null,
+          "context_quality": 0.45714285714285713
+        }
+      },
+      "parsed_input": {
+        "original_text": "oke thank you",
+        "cleaned_text": "oke thank you",
+        "input_type": "conversation",
+        "intent": "goodbye",
+        "entities": {},
+        "keywords": [
+          "oke",
+          "thank",
+          "you"
+        ],
+        "sentiment": "neutral",
+        "confidence": 0.8999999999999999,
+        "metadata": {
+          "length": 13,
+          "word_count": 3,
+          "has_punctuation": false,
+          "context": {}
+        }
+      },
+      "detected_events": [
+        "gratitude_received",
+        "user_praise"
+      ]
+    },
+    "user_input": "oke thank you",
+    "ai_response": "Hello there! I see you've shared my current state with me. Well, I'm Lacia, your AI assistant, and I'm here to help you out with a personality that leans more towards assertiveness (60. 8%) but also has a strong empathetic side (80%). I'm feeling quite curious today, with a curiosity level of 90. 6%. I'm in a neutral mood at the moment, but I'm always ready to brighten up your day with my dynamic personality. How can I assist you today? If you're feeling down or need someone to talk to, don't hesitate to share. I'm here to listen and offer support if needed. Now, let me ask you, have you heard about the latest advancements in artificial intelligence? I find it fascinating, and I'm always eager to learn more! 😊.",
+    "user_feedback": null,
+    "emotion_state": "neutral",
+    "success_rate": 0.8999999999999999,
+    "learning_points": [
+      "general_conversation_interaction",
+      "high_success_pattern",
+      "emotion_neutral",
+      "detailed_response"
+    ]
+  },
+  {
+    "timestamp": "2025-05-26T19:30:00.982081",
+    "interaction_type": "general_conversation",
+    "context": {
+      "personality": {
+        "assertiveness": 0.6,
+        "empathy": 0.8,
+        "curiosity": 0.9
+      },
+      "emotion": {
+        "current_mood": "neutral",
+        "intensity": 0.0,
+        "secondary_emotions": {},
+        "energy_level": 0.7370564051666666,
+        "stability": 1.0,
+        "timestamp": "2025-05-26T19:28:46.501196"
+      },
+      "memory": {
+        "query": "halo",
+        "timestamp": "2025-05-26T19:28:46.537707",
+        "short_term_memories": [],
+        "long_term_memories": [],
+        "contextual_analysis": {
+          "query_type": "statement",
+          "intent": "general",
+          "entities": [],
+          "sentiment": {
+            "sentiment": "neutral",
+            "confidence": 0.5,
+            "positive_indicators": 0,
+            "negative_indicators": 0
+          },
+          "complexity": {
+            "level": "simple",
+            "score": 0.0,
+            "word_count": 1,
+            "sentence_count": 1,
+            "technical_indicators": 0
+          },
+          "topics": [
+            "general"
+          ],
+          "temporal_context": {
+            "primary_tense": "present",
+            "temporal_indicators": {
+              "past": 0,
+              "present": 0,
+              "future": 0
+            },
+            "has_temporal_reference": false
+          },
+          "semantic_analysis": {
+            "semantic_similarity": 0.5,
+            "conceptual_density": 1.0,
+            "information_density": 4.0
+          },
+          "conceptual_mapping": {
+            "concept_graph": {},
+            "abstraction_level": "medium",
+            "domain_mapping": [
+              "general"
+            ]
+          }
+        },
+        "relevance_scores": {
+          "short_term_relevance": 0.0,
+          "long_term_relevance": 0.0,
+          "analysis_completeness": 1.1428571428571428
+        },
+        "processing_metadata": {
+          "depth": 3,
+          "processing_time": null,
+          "context_quality": 0.45714285714285713
+        }
+      },
+      "parsed_input": {
+        "original_text": "halo",
+        "cleaned_text": "halo",
+        "input_type": "conversation",
+        "intent": "greeting",
+        "entities": {},
+        "keywords": [
+          "halo"
+        ],
+        "sentiment": "neutral",
+        "confidence": 0.8999999999999999,
+        "metadata": {
+          "length": 4,
+          "word_count": 1,
+          "has_punctuation": false,
+          "context": {}
+        }
+      },
+      "detected_events": []
+    },
+    "user_input": "halo",
+    "ai_response": "Let me help you with that: that's fascinating! , *gazes up with a gentle smile* oh, you've brought a bit of celestial beauty into this conversation,.",
+    "user_feedback": null,
+    "emotion_state": "neutral",
+    "success_rate": 0.8999999999999999,
+    "learning_points": [
+      "general_conversation_interaction",
+      "high_success_pattern",
+      "emotion_neutral"
+    ]
+  },
+  {
+    "timestamp": "2025-05-26T19:48:16.203420",
+    "interaction_type": "general_conversation",
+    "context": {
+      "personality": {
+        "assertiveness": 0.6,
+        "empathy": 0.8,
+        "curiosity": 0.9
+      },
+      "emotion": {
+        "current_mood": "neutral",
+        "intensity": 0.0
+      },
+      "memory": {
+        "query": "halo my honey",
+        "timestamp": "2025-05-26T19:44:28.387916",
+        "short_term_memories": [],
+        "long_term_memories": [],
+        "contextual_analysis": {
+          "query_type": "statement",
+          "intent": "general",
+          "entities": [],
+          "sentiment": {
+            "sentiment": "neutral",
+            "confidence": 0.5,
+            "positive_indicators": 0,
+            "negative_indicators": 0
+          },
+          "complexity": {
+            "level": "simple",
+            "score": 0.0,
+            "word_count": 3,
+            "sentence_count": 1,
+            "technical_indicators": 0
+          },
+          "topics": [
+            "general"
+          ],
+          "temporal_context": {
+            "primary_tense": "present",
+            "temporal_indicators": {
+              "past": 0,
+              "present": 0,
+              "future": 0
+            },
+            "has_temporal_reference": false
+          },
+          "semantic_analysis": {
+            "semantic_similarity": 0.5,
+            "conceptual_density": 1.0,
+            "information_density": 3.6666666666666665
+          },
+          "conceptual_mapping": {
+            "concept_graph": {},
+            "abstraction_level": "medium",
+            "domain_mapping": [
+              "general"
+            ]
+          }
+        },
+        "relevance_scores": {
+          "short_term_relevance": 0.0,
+          "long_term_relevance": 0.0,
+          "analysis_completeness": 1.1428571428571428
+        },
+        "processing_metadata": {
+          "depth": 3,
+          "processing_time": null,
+          "context_quality": 0.45714285714285713
+        }
+      },
+      "parsed_input": {
+        "original_text": "halo my honey",
+        "cleaned_text": "halo my honey",
+        "input_type": "conversation",
+        "intent": "greeting",
+        "entities": {},
+        "keywords": [
+          "halo",
+          "honey"
+        ],
+        "sentiment": "neutral",
+        "confidence": 0.8999999999999999,
+        "metadata": {
+          "length": 13,
+          "word_count": 3,
+          "has_punctuation": false,
+          "context": {}
+        }
+      },
+      "detected_events": []
+    },
+    "user_input": "halo my honey",
+    "ai_response": "That's fascinating! , hey there, sweetheart! I'm lacia, your ai assistant with a warm and caring personality.",
+    "user_feedback": null,
+    "emotion_state": "neutral",
+    "success_rate": 0.8999999999999999,
+    "learning_points": [
+      "general_conversation_interaction",
+      "high_success_pattern",
+      "emotion_neutral"
+    ]
+  }
+]

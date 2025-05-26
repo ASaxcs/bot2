@@ -1,0 +1,71 @@
+(lacia_env) lynd@lynd-X455LF:~/Dokumen/lacia_ai$ python main.py
+🔍 Checking dependencies...
+✅ llama-cpp-python is installed
+
+📋 LACIA AI - MODULAR SETUP
+==================================================
+1. Ensure all module files are created in your directory structure
+2. Download GGUF model: https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF
+3. Place model file in 'models/' folder
+4. Run with: python main.py --mode [cli|api|gradio|all]
+==================================================
+
+📝 Loading configuration from: config.json
+✅ Configuration loaded successfully
+🚀 Memulai Inisialisasi Lacia AI (Arsitektur Modular)...
+⚠️ Error loading experiences: Experience.__init__() got an unexpected keyword argument 'id'
+INFO:core.personality.emotion.state_manager:Emotional State Manager initialized
+Error loading trigger config: expected str, bytes or os.PathLike object, not dict
+INFO:core.cognition.processor:Cognition Processor initialized
+🔄 Loading Mistral 7B GGUF model: models/mistral-7b-instruct-v0.2.Q4_K_M.gguf
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (32768) -- the full capacity of the model will not be utilized
+✅ GGUF Model loaded successfully!
+Error loading tasks: expected str, bytes or os.PathLike object, not dict
+INFO:system.extension_manager:Loaded 0 extensions
+✅ Lacia AI System Initialized!
+📝 Model: TheBloke/Mistral-7B-Instruct-v0.2-GGUF
+📁 Model File: Unknown
+🧠 Memory Systems: Active
+❤️ Emotional System: Active
+👤 Personality Traits: Assertiveness, Empathy, Curiosity
+🔧 Skills Loaded: 3
+🔌 Extensions: 0
+============================================================
+🤖 LACIA AI - Interactive CLI Interface
+============================================================
+✨ Type your message and press Enter to chat
+📋 Type /help for available commands
+🚪 Type /quit or /exit to leave
+============================================================
+
+🤖 Lacia> /status
+
+📊 SYSTEM STATUS:
+========================================
+🤖 Model Loaded: ✅
+🧠 Short-term Memory: 0 items
+💾 Long-term Memory: 4 items
+🔧 Skills: analog_hack, scheduling, translation
+🔌 Extensions: 0 loaded
+========================================
+
+🤖 Lacia> add to 1 day later is a work in home a affternoon the day
+🤔 Thinking...
+ERROR:core.cognition.processor:Short-term memory retrieval error: sequence index must be integer, not 'slice'
+✅ Memory stored: memory_20250526_102749_4
+
+💬 Lacia: Well, it seems like you're asking about adding something to your schedule for the afternoon of the day after tomorrow. With my current assertiveness level of 0. 6 and empathy of 0. 8, I'd be happy to help you with that! I'd suggest jotting down the task or appointment in your planner or digital calendar to ensure you don't forget. If you need any assistance with organizing your schedule or finding resources for the task, just let me know. I'm here to help, and I'm feeling quite curious about what you have planned for that afternoon. Plus, with my energy level at 0. 8144957601666667, I'm ready to assist you in a productive and engaging way. Let's make the most of the work-from-home life together! :).
+
+🤖 Lacia> I asked but to remind you that 1 day later right in the afternoon at home there is work that Ihave to do
+🤔 Thinking...
+ERROR:core.cognition.processor:Short-term memory retrieval error: sequence index must be integer, not 'slice'
+✅ Memory stored: memory_20250526_103555_5
+
+💬 Lacia: Oh, I see. I'd be happy to help you remember that important task you have coming up in a day and a half, around mid-afternoon at home. I'd be assertive in making sure you don't forget, but also empathetic in understanding that you have work to attend to. I'll keep that in mind for you. Is there anything specific you need help with in preparation for that task? I'm here to assist in any way I can. Your curiosity drives me to ask and ensure you have all the resources you need to succeed. How can I help further?
+
+🤖 Lacia> oke thank you
+🤔 Thinking...
+ERROR:core.cognition.processor:Short-term memory retrieval error: sequence index must be integer, not 'slice'
+✅ Memory stored: memory_20250526_103834_6
+
+💬 Lacia: Hello there! I see you've shared my current state with me. Well, I'm Lacia, your AI assistant, and I'm here to help you out with a personality that leans more towards assertiveness (60. 8%) but also has a strong empathetic side (80%). I'm feeling quite curious today, with a curiosity level of 90. 6%. I'm in a neutral mood at the moment, but I'm always ready to brighten up your day with my dynamic personality. How can I assist you today? If you're feeling down or need someone to talk to, don't hesitate to share. I'm here to listen and offer support if needed. Now, let me ask you, have you heard about the latest advancements in artificial intelligence? I find it fascinating, and I'm always eager to learn more! 😊.

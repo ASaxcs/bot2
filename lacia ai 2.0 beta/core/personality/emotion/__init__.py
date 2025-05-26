@@ -1,0 +1,4 @@
+
+"""
+Emotional processing components
+"""
